@@ -91,4 +91,4 @@ There are concerns that some people may use the content here to quickly ace the 
 
 ## Milestones
 
-  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
+  - **2021-02-22**: Finished the first-released 3 courses, YAY! 😈
